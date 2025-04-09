@@ -1,35 +1,42 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
   <channel>
-    <title>Wine &amp; Commerce Digest</title>
+    <title>Wine & Commerce Digest</title>
     <link>https://tosch2jac.github.io/wine-digest-rss/feed.xml</link>
-    <description>T&auml;glicher Digest zu Weinwirtschaft, Handel, Social Media &amp; E-Commerce</description>
+    <description>Täglicher Digest zu Weinwirtschaft, Handel, Social Media & E-Commerce</description>
     <language>de</language>
     <lastBuildDate>Wed, 10 Apr 2025 09:00:00 GMT</lastBuildDate>
 
     <item>
-      <title>ProWein Business Report 2025 ver&ouml;ffentlicht</title>
+      <title>ProWein Business Report 2025 veröffentlicht</title>
       <link>https://www.about-drinks.com/prowein-business-report-2025-blickt-in-die-zukunft-des-weins/</link>
       <category>Branchen-News</category>
-      <description>Absatz &amp; Konsumverhalten im Wandel, Fachkr&auml;ftemangel w&auml;chst. Neue Strategien f&uuml;r Weinh&auml;ndler im Fokus.</description>
+      <description>Absatz &amp; Konsumverhalten im Wandel, Fachkräftemangel wächst. Neue Strategien für Weinhändler im Fokus.</description>
       <pubDate>Wed, 10 Apr 2025 08:30:00 GMT</pubDate>
     </item>
 
     <item>
-      <title>Ros&eacute; &amp; Wei&szlig;weine bleiben auf Wachstumskurs</title>
+      <title>Rosé & Weißweine bleiben auf Wachstumskurs</title>
       <link>https://www.falstaff.com/de/news/das-sind-die-weintrends-fuer-2025</link>
       <category>Marktentwicklung</category>
-      <description>Stabile Nachfrage im mittleren Preissegment – H&auml;ndler setzen zunehmend auf leichte Sommerweine.</description>
+      <description>Stabile Nachfrage im mittleren Preissegment – Händler setzen zunehmend auf leichte Sommerweine.</description>
       <pubDate>Wed, 10 Apr 2025 08:15:00 GMT</pubDate>
     </item>
 
     <item>
-      <title>Virtuelle Influencer ver&auml;ndern das Weinmarketing</title>
+      <title>Virtuelle Influencer verändern das Weinmarketing</title>
       <link>https://abg-marketing.de/social-media/acht-social-media-trends-2025-von-ki-bis-zu-virtuellen-influencern/</link>
       <category>Social Media</category>
-      <description>KI-Profile wie &bdquo;Ella the Sommeli&egrave;re&ldquo; generieren hohe Reichweite auf Instagram &amp; TikTok – Trend oder Standard von morgen?</description>
+      <description>KI-Profile wie „Ella the Sommelière“ generieren hohe Reichweite auf Instagram & TikTok – Trend oder Standard von morgen?</description>
       <pubDate>Wed, 10 Apr 2025 08:00:00 GMT</pubDate>
     </item>
 
     <item>
       <title>UX-Trends 2025 im E-Commerce</title>
+      <link>https://www.mosaiq.com/de/magazin/ux-trends-2025</link>
+      <category>E-Commerce / UX</category>
+      <description>Adaptive Interfaces, AI-Recommendations &amp; Voice-Commerce verändern das Kaufverhalten im digitalen Weinhandel.</description>
+      <pubDate>Wed, 10 Apr 2025 07:45:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
