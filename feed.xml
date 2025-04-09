@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Wine & Commerce Digest</title>
+    <link>https://dein-github-name.github.io/wine-digest-rss/feed.xml</link>
+    <description>Täglicher Digest zu Weinwirtschaft, Handel, Social Media & E-Commerce</description>
+    <language>de</language>
+    <lastBuildDate>Wed, 10 Apr 2025 09:00:00 GMT</lastBuildDate>
+
+    <item>
+      <title>ProWein Business Report 2025 veröffentlicht</title>
+      <link>https://www.about-drinks.com/prowein-business-report-2025-blickt-in-die-zukunft-des-weins/</link>
+      <category>Branchen-News</category>
+      <description>Absatz & Konsumverhalten im Wandel, Fachkräftemangel wächst.</description>
+      <pubDate>Wed, 10 Apr 2025 08:30:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Rosé & Weißweine bleiben auf Wachstumskurs</title>
+      <link>https://www.falstaff.com/de/news/das-sind-die-weintrends-fuer-2025</link>
+      <category>Marktentwicklung</category>
+      <description>Stabile Nachfrage im mittleren Preissegment, auch in der Gastronomie.</description>
+      <pubDate>Wed, 10 Apr 2025 08:15:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Virtuelle Influencer verändern das Weinmarketing</title>
+      <link>https://abg-marketing.de/social-media/acht-social-media-trends-2025-von-ki-bis-zu-virtuellen-influencern/</link>
+      <category>Social Media</category>
+      <description>KI-Profile generieren hohe Reichweite auf TikTok & Instagram.</description>
+      <pubDate>Wed, 10 Apr 2025 08:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>UX-Trends 2025 im E-Commerce</title>
+      <link>https://www.mosaiq.com/de/magazin/ux-trends-2025</link>
+      <category>E-Commerce / UX</category>
+      <description>Adaptive Interfaces & Voice-Commerce setzen sich durch.</description>
+      <pubDate>Wed, 10 Apr 2025 07:45:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
